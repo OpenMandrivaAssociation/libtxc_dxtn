@@ -1,5 +1,3 @@
-%define distsuffix plf
-
 %define libname %mklibname txc-dxtn
 %define develname %mklibname -d txc-dxtn
 
