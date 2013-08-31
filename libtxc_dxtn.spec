@@ -27,7 +27,7 @@ patents.
 Summary:	S3 Texture Compression (S3TC) sextension for Mesa
 Group:		System/Libraries
 Requires:	%{libname} = %{version}-%{release}
-Provides:	%{name} = %{version}-%{release}
+Provides:	%{name}-devel = %{version}-%{release}
 
 %description -n %{develname}
 An open source implementation of the S3 Texture Compression (S3TC)
