@@ -5,7 +5,7 @@ Name:		libtxc_dxtn
 Summary:	S3 Texture Compression (S3TC) sextension for Mesa
 Version:	1.0.1
 Epoch:		1
-Release:	9
+Release:	10
 Group:		System/Libraries
 License:	BSD
 URL:		http://cgit.freedesktop.org/~mareko/libtxc_dxtn/
