@@ -8,7 +8,7 @@ Epoch:		1
 Release:	SINCE MESA 17.3.0 THIS PACKAGE IS NOT NEEDED
 Group:		System/Libraries
 License:	BSD
-URL:		http://cgit.freedesktop.org/~mareko/libtxc_dxtn/
+URL:		https://cgit.freedesktop.org/~mareko/libtxc_dxtn/
 Source0:	http://cgit.freedesktop.org/~mareko/libtxc_dxtn/snapshot/libtxc_dxtn-%{version}.tar.bz2
 BuildRequires:	pkgconfig(gl)
 
