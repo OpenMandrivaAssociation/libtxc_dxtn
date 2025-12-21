@@ -10,6 +10,11 @@ Group:		System/Libraries
 License:	BSD
 URL:		https://cgit.freedesktop.org/~mareko/libtxc_dxtn/
 Source0:	http://cgit.freedesktop.org/~mareko/libtxc_dxtn/snapshot/libtxc_dxtn-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(gl)
 
 %description
